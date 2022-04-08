@@ -49,7 +49,10 @@ const InputForm = ({
     
 
   return (
-    <motion.form className="input-form" layout>
+    <motion.form 
+        className="input-form"
+        layout
+    >
         <motion.input 
             type="text" 
             placeholder="Add New"

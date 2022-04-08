@@ -69,6 +69,7 @@ body{
   overflow: hidden;
   background: var(--form-bg);
   max-width: 96vw;
+  touch-action: none;
 }
 
 input, textarea{
