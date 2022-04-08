@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ToDo-React/static/css/main.ee570490.css",
+    "main.css": "/ToDo-React/static/css/main.9222c761.css",
     "main.js": "/ToDo-React/static/js/main.1ca07766.js",
     "static/js/787.9243050f.chunk.js": "/ToDo-React/static/js/787.9243050f.chunk.js",
     "static/media/trash.svg": "/ToDo-React/static/media/trash.caf49d7a36eee92a18242ce92aaee2b0.svg",
@@ -8,12 +8,12 @@
     "static/media/check.svg": "/ToDo-React/static/media/check.ae71ed2ee392d162c82f7b0011328c8a.svg",
     "static/media/plus.svg": "/ToDo-React/static/media/plus.17c2b47d80881ebd0f8dbcd27e023928.svg",
     "static/media/cross.svg": "/ToDo-React/static/media/cross.40319714bdb446f5fa54167aef05eb16.svg",
-    "main.ee570490.css.map": "/ToDo-React/static/css/main.ee570490.css.map",
+    "main.9222c761.css.map": "/ToDo-React/static/css/main.9222c761.css.map",
     "main.1ca07766.js.map": "/ToDo-React/static/js/main.1ca07766.js.map",
     "787.9243050f.chunk.js.map": "/ToDo-React/static/js/787.9243050f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ee570490.css",
+    "static/css/main.9222c761.css",
     "static/js/main.1ca07766.js"
   ]
 }
