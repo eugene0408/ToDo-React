@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/ToDo-React/static/css/main.9222c761.css",
-    "main.js": "/ToDo-React/static/js/main.c9244c92.js",
-    "static/js/787.9243050f.chunk.js": "/ToDo-React/static/js/787.9243050f.chunk.js",
-    "static/media/trash.svg": "/ToDo-React/static/media/trash.caf49d7a36eee92a18242ce92aaee2b0.svg",
-    "index.html": "/ToDo-React/index.html",
-    "static/media/check.svg": "/ToDo-React/static/media/check.ae71ed2ee392d162c82f7b0011328c8a.svg",
-    "static/media/plus.svg": "/ToDo-React/static/media/plus.17c2b47d80881ebd0f8dbcd27e023928.svg",
-    "static/media/cross.svg": "/ToDo-React/static/media/cross.40319714bdb446f5fa54167aef05eb16.svg",
-    "main.9222c761.css.map": "/ToDo-React/static/css/main.9222c761.css.map",
-    "main.c9244c92.js.map": "/ToDo-React/static/js/main.c9244c92.js.map",
-    "787.9243050f.chunk.js.map": "/ToDo-React/static/js/787.9243050f.chunk.js.map"
+    "main.css": "/Todo-React/static/css/main.99a5b755.css",
+    "main.js": "/Todo-React/static/js/main.26f8ee27.js",
+    "static/js/787.9243050f.chunk.js": "/Todo-React/static/js/787.9243050f.chunk.js",
+    "static/media/trash.svg": "/Todo-React/static/media/trash.caf49d7a36eee92a18242ce92aaee2b0.svg",
+    "index.html": "/Todo-React/index.html",
+    "static/media/check.svg": "/Todo-React/static/media/check.ae71ed2ee392d162c82f7b0011328c8a.svg",
+    "static/media/plus.svg": "/Todo-React/static/media/plus.17c2b47d80881ebd0f8dbcd27e023928.svg",
+    "static/media/cross.svg": "/Todo-React/static/media/cross.40319714bdb446f5fa54167aef05eb16.svg",
+    "main.99a5b755.css.map": "/Todo-React/static/css/main.99a5b755.css.map",
+    "main.26f8ee27.js.map": "/Todo-React/static/js/main.26f8ee27.js.map",
+    "787.9243050f.chunk.js.map": "/Todo-React/static/js/787.9243050f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9222c761.css",
-    "static/js/main.c9244c92.js"
+    "static/css/main.99a5b755.css",
+    "static/js/main.26f8ee27.js"
   ]
 }
