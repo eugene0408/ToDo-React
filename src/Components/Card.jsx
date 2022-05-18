@@ -39,7 +39,6 @@ const Card = ({
     const deleteHandler = (e) => {
         e.stopPropagation()
         setCards(cards.filter((el) => el.id !== card.id))
-        console.log(`delete`)
     }
 
 

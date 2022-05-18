@@ -1,5 +1,11 @@
-# Simple To Do app.
-Animations: Framer Motion.
+# Todo App React
 
-Live:
-https://eugene0408.github.io/ToDo-React
+### Functions:
+- add/remove todos, 
+- toggle todo status, 
+- filter todos by status,
+- save data to local storage,
+- animations (framer-motion)
+
+
+#### Live: https://eugene0408.github.io/ToDo-React

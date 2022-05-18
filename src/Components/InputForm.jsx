@@ -66,7 +66,7 @@ const InputForm = ({
             <motion.button
                 className="close-btn"
                 onClick={closeHandler}
-                layout
+                layout='position'
             >
                 <CloseIcon />
                 

@@ -51,10 +51,13 @@ body{
   z-index: 1;
   width: fit-content;
   float: left;
+  max-width: 90vw;
 }
 
 .card p{
   padding-top: 1rem;
+  white-space: pre-wrap;
+  overflow: hidden;
 }
 
 .expand{
@@ -70,6 +73,7 @@ body{
   background: var(--form-bg);
   max-width: 96vw;
   touch-action: none;
+  padding-bottom: .5rem;
 }
 
 input, textarea{
@@ -85,7 +89,7 @@ input{
   border-radius: 1.2rem;
   font-size: 22px;
   font-weight: 600;
-  padding: 1.2rem 3rem 1.2rem 1rem;
+  padding: 1.2rem 3rem .8rem 1rem;
   touch-action: none;
 }
 
@@ -99,10 +103,9 @@ textarea{
   font-size: 18px;
   font-weight: 500;
   resize: none;
-  padding-bottom: .5rem;
-  overflow: hidden;
+  /* overflow: hidden; */
   width: 28rem;
-  padding: 0 3rem 1.5rem 1rem;
+  padding: 0 3rem 0 1rem;
   touch-action: none;
 }
 
